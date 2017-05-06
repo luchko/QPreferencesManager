@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Licensed under the terms of the MIT License 
-https://github.com/luchko/QCodeEditor
+https://github.com/luchko/QPreferencesManager
 @author: Ivan Luchko (luchko.ivan@gmail.com)
 
 This module contains the definition of the preference management tool.
