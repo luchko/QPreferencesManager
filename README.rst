@@ -6,4 +6,4 @@ QPreferencesManager widget (PyQt)
 
 Overview
 ========
-``QPreferencesManager`` is a light setting manegment tool based on ``PyQt`` with ability to create different setting themes, saving and deleting them.
+``QPreferencesManager`` is a light setting management tool based on ``PyQt`` with ability to create different setting themes, save and delete them.
